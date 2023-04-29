@@ -1,4 +1,4 @@
-# Note:
+# Note
 
 This is just a easy example for HOCs.
 
